@@ -67,7 +67,7 @@ cloud.google.com/go/compute/metadata
 ## explicit; go 1.26.0
 cloud.google.com/go/iam
 cloud.google.com/go/iam/apiv1/iampb
-# cloud.google.com/go/longrunning v1.4.0
+# cloud.google.com/go/longrunning v1.4.1
 ## explicit; go 1.26.0
 cloud.google.com/go/longrunning
 cloud.google.com/go/longrunning/autogen
@@ -1136,7 +1136,7 @@ github.com/google/uuid
 ## explicit; go 1.25.0
 github.com/googleapis/enterprise-certificate-proxy/client
 github.com/googleapis/enterprise-certificate-proxy/client/util
-# github.com/googleapis/gax-go/v2 v2.26.2
+# github.com/googleapis/gax-go/v2 v2.27.0
 ## explicit; go 1.26.0
 github.com/googleapis/gax-go/v2
 github.com/googleapis/gax-go/v2/apierror
